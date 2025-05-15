@@ -11,6 +11,7 @@ The Francis Crick Institute
 
 This training is developed and delivered by [Rocco D’Antuono](https://github.com/RoccoDAnt) (the Francis Crick Institute), [Giulia Paci](https://github.com/giuliapaci) (University College London) and [Marie Held](https://github.com/Marien-kaefer) (the University of Liverpool). Additional speakers include [Ana Stojiljkovic](https://github.com/StojiljkovicVetAna) (University of Bern), [Sebastian Gonzalez Tirado](https://github.com/sebgoti) (Heidelberg University), [Cameron Shand](https://github.com/sea-shunned) (the Francis Crick Institute) and [Graham Ross](https://github.com/grahamross123) (the Francis Crick Institute).
 
+For more info, please contact: rocco.dantuono@crick.ac.uk
 
 # Installation of the software
 During the workshop we will extensively try and retry the software installation with conda environments, however to gain some practice and proceed smoothly to more interesting topics, please proceed with the following homework before the workshop
