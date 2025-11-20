@@ -6,10 +6,12 @@
 CBIAS napari workshop 2025 - run as part of the Crick Bioimage Analysis Symposium 2025
 
 26-27 November 2025 <br>
-The Francis Crick Institute
+Organized by The Francis Crick Institute
+
+Location: Pullmann Hotel St. Pancras
 
 
-This training is developed and delivered by [Rocco D’Antuono](https://github.com/RoccoDAnt) (the Francis Crick Institute), [Giulia Paci](https://github.com/giuliapaci) (University College London) and [Marie Held](https://github.com/Marien-kaefer) (the University of Liverpool). Additional speakers include [Ana Stojiljkovic](https://github.com/StojiljkovicVetAna) (University of Bern), [Sebastian Gonzalez Tirado](https://github.com/sebgoti) (Heidelberg University), [Cameron Shand](https://github.com/sea-shunned) (the Francis Crick Institute) and [Graham Ross](https://github.com/grahamross123) (the Francis Crick Institute).
+This training is developed and delivered by [Rocco D’Antuono](https://github.com/RoccoDAnt) (the Francis Crick Institute), [Giulia Paci](https://github.com/giuliapaci) (University College London) and [Marie Held](https://github.com/Marien-kaefer) (the University of Liverpool). Additional speakers include [Ana Stojiljkovic](https://github.com/StojiljkovicVetAna) (University of Bern), [Stefania Marcotti](https://github.com/stemarcotti) (The Francis Crick Institute), [Sara Salgueiro Torres](https://github.com/sara-st) (The Francis Crick Institute), [Cameron Shand](https://github.com/sea-shunned) (the Francis Crick Institute) and [Joost de Folter](https://github.com/folterj) (the Francis Crick Institute).
 
 For more info, please contact: rocco.dantuono@crick.ac.uk
 
@@ -79,7 +81,7 @@ napari
 # Day 1 - instructions and links
 #### 10:00 – 10:10 - Welcome and introduction to the course
 #### 10:10 – 10:30 - Participants self-introduction
-#### 10:30 – 12:30 - Installation and napari GUI - Rocco D’Antuono and Sebastian Gonzalez Tirado
+#### 10:30 – 12:30 - Installation and napari GUI - Stefania Marcotti and Rocco D’Antuono
 
 Install napari with options 1 and 2 above or the provided recipe (.yml file).
 
@@ -92,8 +94,7 @@ Follow Option D in the [napari-zelda plugin repository](https://github.com/Rocco
   conda env create -f cbias2024-napari-zelda-env.yml
   ```
 
-* EpiTools: a napari plugin for quantifying epithelial dynamics (Giulia Paci)
-For installation instruction visit [Epitools repository](https://github.com/epitools/epitools)
+
 
 * Mitochondria segmentation in EM data with napari-empanada (Marie Held)
   Either execute the following (note the python version must not be >3.9!)
@@ -124,7 +125,7 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 
 #### 15:00 – 15:30 - Coffee break
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):
-  * Introduction to Jupyter notebooks for bioimage analisis with python (Rocco D’Antuono)
+  * Introduction to Jupyter notebooks for bioimage analisis with python (Sara Salgueiro Torres)
   Create and environment with Jupyter lab to execute python notebooks, with the following commands
   ```
   conda create -n cbias2024-jupyter-env python=3.10
@@ -138,10 +139,10 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
   conda env create -f cbias2024-jupyter-env.yml
   ```  
 
-  * Delving into Napari layer types (Sebastian Gonzalez Tirado)
+  * Delving into Napari layer types (Rocco D'Antuono)
   * Napari widgets and plugin creation with magicgui and plugin template (Cameron Shand)
   Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2024_napari_demo](https://github.com/FrancisCrickInstitute/cbias2024_napari_demo)
-  * Introduction to image registration methods for 2D and 3D image data (Graham Ross)
+  * Introduction to image registration methods for 2D and 3D image data (Joost de Folter)
 
 #### 17:30 – 18:00 - Brainstorming on trainees projects
 
@@ -150,7 +151,7 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 #### 18:30 - Drinks and nibbles reception (Crick canteen)
 
 # Day 2 - instructions and links
-#### 10:00 – 10:30 - Quick SOP for image.sc forum (all the trainers)
+#### 10:00 – 10:30 - Quick SOP for image.sc forum (Marie Held)
  Visit [https://forum.image.sc/]() and create and account.
 
 #### 10:30 – 12:30 - Work on projects
