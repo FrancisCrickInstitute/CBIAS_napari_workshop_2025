@@ -21,16 +21,16 @@ During the workshop we will extensively try and retry the software installation 
 1. Install Anaconda Navigator
 2. Install napari within conda prompt
 
-Please make sure to have at least 10-15 GB free on the pc you will bring with you for participating in the workshop. Please let us know well in advance if you cannot bring a pc with you, we might be able to get a loan, however this is not guaranteed and you might risk to have no pc to follow along.
+Please make sure to have at least 10-15 GB free on the laptop you will bring with you for participating in the workshop. Please let us know well in advance if you cannot bring a laptop with you, we might be able to get a loan; however, this is not guaranteed and you might risk to not have a machine to follow along during the workshop.
 
 ### 1. Install Anaconda Navigator
 This is a method that use the graphical user interface to download and install Anaconda Navigator.
 Please visit https://docs.anaconda.com/ and click on the green button "Download Anaconda". You will be asked to provide an email address and will receive the link to the download page, where you will choose the version for your OS.
 
-Before installing Anaconda Navigator, please identify a folder in your computer over which you have full permission of read and write file: we will create and update many times conda environments, this means that the software will install and remove files all the times.
+Before installing Anaconda Navigator, please identify a folder in your computer over which you have full permission of read and write file: we will create and update many times conda environments, this means that the software will install and remove files all the times. Please avoid folders which contain spaces or special characters in the path.
 
 ### 2. Install napari within conda prompt
-The successful installation of Anaconda Navigator will make available an app called "Anaconda prompt". Thsi is the terminal that we will use to create and work with conda environments.
+The successful installation of Anaconda Navigator will make available an app called "Anaconda prompt". This is the terminal that we will use to create and work with conda environments.
 
 a) Update conda, by typing the following line and pressing Enter.
 ```
@@ -48,7 +48,7 @@ c) activate the new environment
 ```
 conda activate mymeaningfulname-env
 ```
-You should notice a change in the prompt where the name base at the beginning of the prompt has been changed to "mymeaningfulname-env". This confirms that it is safe to install new packages, as you are not altering the base environment (safe choice is not touch "base").
+You should notice a change in the prompt, where the name base at the beginning of the prompt has been changed to "mymeaningfulname-env" in parentheses. This confirms that it is safe to install new packages, as you are not altering the base environment (safe choice is not to touch "base").
 
 d) install napari
 
@@ -73,7 +73,7 @@ conda env create -f cbias2024-napari-env.yml
 This should create an environment with the same name of the .yml file unless otherwise specified.
 
 c) check that napari opens
-At this point, if no error appears in the terminal as result of the operations above, you are ready to open napari executing
+At this point, if no error appears in the terminal as a result of the operations above, you are ready to open napari executing
 ```
 napari
 ```
@@ -85,7 +85,7 @@ napari
 
 Install napari with options 1 and 2 above or the provided recipe (.yml file).
 
-#### 12:30 – 13:30 - Lunch (Crick canteen ground floor)
+#### 12:30 – 13:30 - Lunch 
 
 #### 13:30 – 15:00 - napari plugin showcase:
 * Basic 3D image segmentation with napari-zelda (Rocco D’Antuono)
@@ -152,7 +152,7 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 
 # Day 2 - instructions and links
 #### 10:00 – 10:30 - Quick SOP for image.sc forum (Marie Held)
- Visit [https://forum.image.sc/]() and create and account.
+ Visit [https://forum.image.sc/]() and create an account.
 
 #### 10:30 – 12:30 - Work on projects
 
