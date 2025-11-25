@@ -120,8 +120,8 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
   ```
   conda install -c conda-forge napari-animation
   ```
-  If you prefer please use the [cbias24-napari-convpaint.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/blob/main/envs/cbias24-napari-convpaint.yml) file to   install a napari environment containing both plugins, napari-convpaint & napari-animation.<br>
-  [Slides](https://docs.google.com/presentation/d/1ksxZsOKaJJVPIDcIefkZj2oq5Po8j0VpXtOYa0bNOTY/edit?usp=sharing) for the napari-convpaint & napari-animation showcase.
+  If you prefer please use the [cbias25-napari-convpaint.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2025/blob/main/envs/cbias25-napari-convpaint.yml) file to   install a napari environment containing both plugins, napari-convpaint & napari-animation.<br>
+  [Slides](https://docs.google.com/presentation/d/1klbcgt98qLBLfnAeWP9qvpMF1yXmSp5gIaLIE6yHtpo/edit?usp=sharing) for the napari-convpaint & napari-animation showcase.
 
 #### 15:00 – 15:30 - Coffee break
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):
