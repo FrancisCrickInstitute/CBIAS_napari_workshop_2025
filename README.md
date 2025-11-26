@@ -64,11 +64,11 @@ napari
 ### Create a conda environment with a recipe
 If a working environment cannot be created through the commands above, the following recipe can be used to create an environment with napari
 
-a) Download the file [cbias2024-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/tree/main/envs/cbias2024-napari-env.yml) into a local folder
+a) Download the file [cbias2025-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2025/tree/main/envs/cbias2025-napari-env.yml) into a local folder
 
 b) use the Anaconda prompt to navigate to the local folder and execute
 ```
-conda env create -f cbias2024-napari-env.yml
+conda env create -f cbias2025-napari-env.yml
 ```
 This should create an environment with the same name of the .yml file unless otherwise specified.
 
