@@ -89,12 +89,12 @@ Install napari with options 1 and 2 above or the provided recipe (.yml file).
 
 #### 13:30 – 15:00 - napari plugin showcase:
 * Basic 3D image segmentation with napari-zelda (Rocco D’Antuono)
-Follow Option D in the [napari-zelda plugin repository](https://github.com/RoccoDAnt/napari-zelda/tree/main) or download this [cbias2024-napari-zelda-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/tree/main/envs/cbias2024-napari-zelda-env.yml) file, use the Anaconda prompt to navigate to the local folder and execute
+Follow Option D in the [napari-zelda plugin repository](https://github.com/RoccoDAnt/napari-zelda/tree/main) or download this [cbias2025-napari-zelda-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/tree/main/envs/cbias2025-napari-zelda-env.yml) file, use the Anaconda prompt to navigate to the local folder and execute
   ```
-  conda env create -f cbias2024-napari-zelda-env.yml
+  conda env create -f cbias2025-napari-zelda-env.yml
   ```
 
-
+Slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - plugin presentation - Rocco D'Antuono](https://zenodo.org/records/8238682)
 
 * Mitochondria segmentation in EM data with napari-empanada (Marie Held)
   Either execute the following (note the python version must not be >3.9!)
